@@ -4,7 +4,6 @@
     03/16/2016
 */
 
-
 /*
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -14,7 +13,6 @@
  *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
  * };
  */
-
  class Solution{
    public:
    	vector<int> inorderTraversal( TreeNode* root ) {
